@@ -1,1 +1,1 @@
-select * from customers
+select * from customers where customer id = 24
